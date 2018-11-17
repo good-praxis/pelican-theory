@@ -51,53 +51,11 @@
     background: transparent;
     -webkit-transition: all linear .2s;
     transition: all linear .2s;
-    vertical-align:    }
-    @page {
-        margin: .5cm
-    }
-    h2,
-    h3,
-    p {
-        orphans: 3;
-        widows: 3
-    }
-    h2,
-    h3 {
-        page-break-after: avoid
-    }
-}iddle
+    vertical-align: middle
 }
 
-.uk-search-field:-m    }
-    @page {
-        margin: .5cm
-    }
-    h2,
-    h3,
-    p {
-        orphans: 3;
-        widows: 3
-    }
-    h2,
-    h3 {
-        page-break-after: avoid
-    }
-}input-placeholder {
-    color: #999 !im    }
-    @page {
-        margin: .5cm
-    }
-    h2,
-    h3,
-    p {
-        orphans: 3;
-        widows: 3
-    }
-    h2,
-    h3 {
-        page-break-after: avoid
-    }
-}rtant
+.uk-search-field:-ms-input-placeholder {
+    color: #999 !important
 }
 
 .uk-search-field::-moz-placeholder {
