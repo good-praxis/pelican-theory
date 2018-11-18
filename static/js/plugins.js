@@ -1,9 +1,3 @@
-/*
-Part of "mg" by Luca Chiricozzi.
-mg is released under the MIT License
-https://github.com/lucachr/pelican-mg
-*/
-
 // Avoid `console` errors in browsers that lack a console.
 (function() {
     var method;
